@@ -1,10 +1,12 @@
 E-Commerce Website (Demo)
+
 !!!Keep Updating!!!
 
-Website is live on:
+Website is live: [Click Me](https://tommychungresume.netlify.app/)
 
 Goal:
-[x] Frontend (ReactJS)
-[] Backend (NodeJs)
-[] Database (MongoDB)
-[] Data Migration (Express)
+
+- [x] Frontend (ReactJS)
+- [ ] Backend (NodeJs)
+- [ ] Database (MongoDB)
+- [ ] API (Express)
