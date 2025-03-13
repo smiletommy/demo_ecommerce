@@ -1,7 +1,5 @@
 E-Commerce Website (Demo)
 
-!!!Keep Updating!!!
-
 Website is live: [Click Me](https://tommychungresume.netlify.app/)
 
 Goal:
