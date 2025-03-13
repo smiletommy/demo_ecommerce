@@ -8,3 +8,5 @@ Goal:
 - [ ] Backend (NodeJs)
 - [ ] Database (MongoDB)
 - [ ] API (Express)
+
+![image](https://github.com/user-attachments/assets/ebb35d5a-1dcb-4b0b-b462-502d0b123de8)
